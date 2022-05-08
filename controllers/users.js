@@ -23,6 +23,7 @@ export const getUsers = async (req, res)=>{
    }catch(err ){
        console.log("Error listing User");
        res.status(500).json({ message: err });
+       
    }
  
 };
