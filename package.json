@@ -6,8 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "nodemon index.js",
-    "build": "tsc"
-  },
+   },
   "keywords": [],
   "author": "",
   "license": "ISC",
