@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "https://github.com/Stharling/Chat-API.git",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
